@@ -4,7 +4,7 @@
 
 **Built around your business.**
 
-A freelance web and app development agency. We design, build, fix, and deploy websites, WordPress projects, web applications, and Android apps for clients worldwide.
+A web and app development agency. We design, build, fix, and deploy websites, WordPress projects, web applications, and Android apps for clients worldwide.
 
 [![Website](https://img.shields.io/badge/Website-codekuma.com-3D7FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codekuma.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CodeKuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/codekuma/)
