@@ -47,8 +47,6 @@ A web and app development agency. We design, build, fix, and deploy websites, Wo
 <tr><th align="left" width="150">Tools</th><td align="center" width="120"><img src="https://raw.githubusercontent.com/codekumacom/.github/main/profile/git.svg" width="56" height="56" alt="Git logo"><br><sub><b>Git</b></sub></td><td align="center" width="120"><img src="https://raw.githubusercontent.com/codekumacom/.github/main/profile/linux.svg" width="56" height="56" alt="Linux logo"><br><sub><b>Linux</b></sub></td><td></td><td></td></tr>
 </table>
 
-We pick technology for the project, its hosting, and the people who will maintain it, not for trends.
-
 <sub>Icons by [Devicon](https://devicon.dev) (MIT license), hosted in this repository.</sub>
 
 ## Principles
